@@ -1,16 +1,29 @@
-## Hi there 👋
+##About me 
 
-<!--
-**emilia-bellido/emilia-bellido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a background in leadership, graphic design, and video/digital production; I am focused on combining my creative background with my studies in Information and Computer Systems.
 
-Here are some ideas to get you started:
+I am exploring software development, including both front-end and back-end operations, to fuse my educational backgrounds together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools & Technologies
+Programming & Web:
+
+  Languages: Java (OOP), JavaScript, HTML5, CSS3, SQL
+
+  Frameworks: Bootstrap
+
+Development & Design:
+
+  IDEs: NetBeans, WebStorm, VS Code
+
+  Systems & Version Control: Git/GitHub (Academic exposure), Linux (Rocky/RHEL)
+
+Creative: Video & Digital Production, Graphic Design
+
+Hardware/IoT:
+
+  Raspberry Pi, PC Building & Optimization
+
+📫 Reach Out
+
+LinkedIn: www.linkedin.com/in/emiliabellido
+Email: emiliab200424@gmail.com
