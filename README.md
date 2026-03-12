@@ -48,6 +48,5 @@
 <h3>📫 Connect with me</h3>
 
 <p>
-  💼 <b>LinkedIn:</b> <a href="
-    www.linkedin.com/in/emiliabellido">Your Profile</a>
+  💼 <b>LinkedIn:</b> <a href="www.linkedin.com/in/emiliabellido"> My Profile </a>
 </p>
